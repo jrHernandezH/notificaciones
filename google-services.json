@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735934106892",
+    "project_id": "prueba-18bd8",
+    "storage_bucket": "prueba-18bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934106892:android:3a1a3569a1d6c5acab4d29",
+        "android_client_info": {
+          "package_name": "com.hugodevelopernative.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluQiR90dbt4POzP01bv3QAnHISTLfg9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
